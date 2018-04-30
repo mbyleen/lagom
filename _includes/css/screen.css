@@ -146,6 +146,7 @@ nav h1, nav h2 {
 .sidebar {
   padding-top: 25px;
   font-family: "open sans", sans-serif;
+  text-align: center;
 }
 
 .sidebar p {
